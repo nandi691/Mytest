@@ -2,6 +2,6 @@
 int main()
 {
 printf("hello world nandeesh");
-  printf("My git");
+  //printf("My git");
 return 0;
 }
